@@ -1,0 +1,838 @@
+2025-05-12 11:20:00,150 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:20:03,941 - client_37 - INFO - Epoch 1/2 - Loss: 1.3397
+2025-05-12 11:20:04,745 - client_37 - INFO - Epoch 2/2 - Loss: 0.4938
+2025-05-12 11:20:04,747 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:20:04,750 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:20:04,761 - client_37 - INFO - Data transmission successful
+2025-05-12 11:20:09,159 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:20:12,798 - client_37 - INFO - Epoch 1/2 - Loss: 0.7734
+2025-05-12 11:20:13,523 - client_37 - INFO - Epoch 2/2 - Loss: 0.3005
+2025-05-12 11:20:13,526 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:20:13,529 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:20:13,539 - client_37 - INFO - Data transmission successful
+2025-05-12 11:24:40,575 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:24:44,202 - client_37 - INFO - Epoch 1/2 - Loss: 0.2252
+2025-05-12 11:24:44,977 - client_37 - INFO - Epoch 2/2 - Loss: 0.1045
+2025-05-12 11:24:44,978 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:24:44,980 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:24:44,990 - client_37 - INFO - Data transmission successful
+2025-05-12 11:24:52,729 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:24:56,220 - client_37 - INFO - Epoch 1/2 - Loss: 0.1567
+2025-05-12 11:24:56,862 - client_37 - INFO - Epoch 2/2 - Loss: 0.0889
+2025-05-12 11:24:56,864 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:24:56,867 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:24:56,877 - client_37 - INFO - Data transmission successful
+2025-05-12 11:26:42,461 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:26:46,306 - client_37 - INFO - Epoch 1/2 - Loss: 0.1561
+2025-05-12 11:26:47,355 - client_37 - INFO - Epoch 2/2 - Loss: 0.0659
+2025-05-12 11:26:47,356 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:26:47,359 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:26:47,371 - client_37 - INFO - Data transmission successful
+2025-05-12 11:27:05,495 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:27:09,497 - client_37 - INFO - Epoch 1/2 - Loss: 0.2102
+2025-05-12 11:27:10,516 - client_37 - INFO - Epoch 2/2 - Loss: 0.0675
+2025-05-12 11:27:10,518 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:27:10,522 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:27:10,531 - client_37 - INFO - Data transmission successful
+2025-05-12 11:27:47,746 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:27:51,163 - client_37 - INFO - Epoch 1/2 - Loss: 0.1943
+2025-05-12 11:27:51,804 - client_37 - INFO - Epoch 2/2 - Loss: 0.0717
+2025-05-12 11:27:51,806 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:27:51,809 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:27:51,820 - client_37 - INFO - Data transmission successful
+2025-05-12 11:29:10,298 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:29:13,696 - client_37 - INFO - Epoch 1/2 - Loss: 0.1456
+2025-05-12 11:29:14,167 - client_37 - INFO - Epoch 2/2 - Loss: 0.0477
+2025-05-12 11:29:14,168 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:29:14,172 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:29:14,177 - client_37 - INFO - Data transmission successful
+2025-05-12 11:29:17,164 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:29:21,134 - client_37 - INFO - Epoch 1/2 - Loss: 0.0964
+2025-05-12 11:29:22,261 - client_37 - INFO - Epoch 2/2 - Loss: 0.0388
+2025-05-12 11:29:22,263 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:29:22,265 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:29:22,277 - client_37 - INFO - Data transmission successful
+2025-05-12 11:30:24,006 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:30:27,360 - client_37 - INFO - Epoch 1/2 - Loss: 0.1466
+2025-05-12 11:30:27,920 - client_37 - INFO - Epoch 2/2 - Loss: 0.0440
+2025-05-12 11:30:27,921 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:30:27,924 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:30:27,930 - client_37 - INFO - Data transmission successful
+2025-05-12 11:30:33,932 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:30:36,964 - client_37 - INFO - Epoch 1/2 - Loss: 0.0865
+2025-05-12 11:30:37,309 - client_37 - INFO - Epoch 2/2 - Loss: 0.0408
+2025-05-12 11:30:37,309 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:30:37,312 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:30:37,315 - client_37 - INFO - Data transmission successful
+2025-05-12 11:30:54,846 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:30:58,099 - client_37 - INFO - Epoch 1/2 - Loss: 0.0799
+2025-05-12 11:30:58,649 - client_37 - INFO - Epoch 2/2 - Loss: 0.0315
+2025-05-12 11:30:58,651 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:30:58,654 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:30:58,661 - client_37 - INFO - Data transmission successful
+2025-05-12 11:33:02,647 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:33:06,152 - client_37 - INFO - Epoch 1/2 - Loss: 0.0774
+2025-05-12 11:33:06,629 - client_37 - INFO - Epoch 2/2 - Loss: 0.0274
+2025-05-12 11:33:06,630 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:33:06,632 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:33:06,641 - client_37 - INFO - Data transmission successful
+2025-05-12 11:33:10,475 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:33:13,980 - client_37 - INFO - Epoch 1/2 - Loss: 0.0806
+2025-05-12 11:33:14,630 - client_37 - INFO - Epoch 2/2 - Loss: 0.0199
+2025-05-12 11:33:14,632 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:33:14,637 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:33:14,645 - client_37 - INFO - Data transmission successful
+2025-05-12 11:34:09,226 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:34:12,747 - client_37 - INFO - Epoch 1/2 - Loss: 0.1243
+2025-05-12 11:34:13,424 - client_37 - INFO - Epoch 2/2 - Loss: 0.0321
+2025-05-12 11:34:13,426 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:34:13,429 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:34:13,439 - client_37 - INFO - Data transmission successful
+2025-05-12 11:35:04,219 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:35:07,827 - client_37 - INFO - Epoch 1/2 - Loss: 0.0851
+2025-05-12 11:35:08,335 - client_37 - INFO - Epoch 2/2 - Loss: 0.0275
+2025-05-12 11:35:08,337 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:35:08,341 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:35:08,347 - client_37 - INFO - Data transmission successful
+2025-05-12 11:35:12,126 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:35:15,539 - client_37 - INFO - Epoch 1/2 - Loss: 0.0673
+2025-05-12 11:35:16,005 - client_37 - INFO - Epoch 2/2 - Loss: 0.0284
+2025-05-12 11:35:16,006 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:35:16,008 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:35:16,013 - client_37 - INFO - Data transmission successful
+2025-05-12 11:37:02,962 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:37:06,600 - client_37 - INFO - Epoch 1/2 - Loss: 0.1213
+2025-05-12 11:37:07,433 - client_37 - INFO - Epoch 2/2 - Loss: 0.0444
+2025-05-12 11:37:07,437 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:37:07,440 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:37:07,449 - client_37 - INFO - Data transmission successful
+2025-05-12 11:37:31,941 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-12 11:37:35,342 - client_37 - INFO - Epoch 1/2 - Loss: 0.0685
+2025-05-12 11:37:35,893 - client_37 - INFO - Epoch 2/2 - Loss: 0.0301
+2025-05-12 11:37:35,894 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-12 11:37:35,896 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-12 11:37:35,906 - client_37 - INFO - Data transmission successful
+2025-05-13 07:07:45,086 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:07:47,147 - client_37 - INFO - Epoch 1/2 - Loss: 1.2470
+2025-05-13 07:07:48,080 - client_37 - INFO - Epoch 2/2 - Loss: 0.4558
+2025-05-13 07:07:48,084 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:07:48,091 - client_37 - INFO - Data transmission successful
+2025-05-13 07:07:52,906 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:07:54,263 - client_37 - INFO - Epoch 1/2 - Loss: 0.7432
+2025-05-13 07:07:55,069 - client_37 - INFO - Epoch 2/2 - Loss: 0.3075
+2025-05-13 07:07:55,073 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:07:55,082 - client_37 - INFO - Data transmission successful
+2025-05-13 07:11:50,799 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:11:51,746 - client_37 - INFO - Epoch 1/2 - Loss: 0.2356
+2025-05-13 07:11:52,517 - client_37 - INFO - Epoch 2/2 - Loss: 0.1130
+2025-05-13 07:11:52,521 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:11:52,529 - client_37 - INFO - Data transmission successful
+2025-05-13 07:12:00,217 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:12:01,024 - client_37 - INFO - Epoch 1/2 - Loss: 0.1549
+2025-05-13 07:12:01,680 - client_37 - INFO - Epoch 2/2 - Loss: 0.0859
+2025-05-13 07:12:01,683 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:12:01,690 - client_37 - INFO - Data transmission successful
+2025-05-13 07:13:25,151 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:13:26,514 - client_37 - INFO - Epoch 1/2 - Loss: 0.1624
+2025-05-13 07:13:27,509 - client_37 - INFO - Epoch 2/2 - Loss: 0.0614
+2025-05-13 07:13:27,513 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:13:27,524 - client_37 - INFO - Data transmission successful
+2025-05-13 07:13:42,226 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:13:43,625 - client_37 - INFO - Epoch 1/2 - Loss: 0.2114
+2025-05-13 07:13:44,574 - client_37 - INFO - Epoch 2/2 - Loss: 0.0744
+2025-05-13 07:13:44,578 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:13:44,587 - client_37 - INFO - Data transmission successful
+2025-05-13 07:14:13,186 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:14:13,959 - client_37 - INFO - Epoch 1/2 - Loss: 0.1658
+2025-05-13 07:14:14,573 - client_37 - INFO - Epoch 2/2 - Loss: 0.0752
+2025-05-13 07:14:14,576 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:14:14,583 - client_37 - INFO - Data transmission successful
+2025-05-13 07:15:15,870 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:15:16,774 - client_37 - INFO - Epoch 1/2 - Loss: 0.1375
+2025-05-13 07:15:17,227 - client_37 - INFO - Epoch 2/2 - Loss: 0.0562
+2025-05-13 07:15:17,229 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:15:17,232 - client_37 - INFO - Data transmission successful
+2025-05-13 07:15:20,429 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:15:22,018 - client_37 - INFO - Epoch 1/2 - Loss: 0.0884
+2025-05-13 07:15:23,089 - client_37 - INFO - Epoch 2/2 - Loss: 0.0372
+2025-05-13 07:15:23,093 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:15:23,103 - client_37 - INFO - Data transmission successful
+2025-05-13 07:16:12,412 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:16:13,177 - client_37 - INFO - Epoch 1/2 - Loss: 0.1401
+2025-05-13 07:16:13,727 - client_37 - INFO - Epoch 2/2 - Loss: 0.0449
+2025-05-13 07:16:13,730 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:16:13,736 - client_37 - INFO - Data transmission successful
+2025-05-13 07:16:19,754 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:16:20,463 - client_37 - INFO - Epoch 1/2 - Loss: 0.0771
+2025-05-13 07:16:21,007 - client_37 - INFO - Epoch 2/2 - Loss: 0.0331
+2025-05-13 07:16:21,010 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:16:21,017 - client_37 - INFO - Data transmission successful
+2025-05-13 07:16:35,830 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:16:36,482 - client_37 - INFO - Epoch 1/2 - Loss: 0.0845
+2025-05-13 07:16:36,987 - client_37 - INFO - Epoch 2/2 - Loss: 0.0334
+2025-05-13 07:16:36,990 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:16:36,995 - client_37 - INFO - Data transmission successful
+2025-05-13 07:18:20,971 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:18:21,834 - client_37 - INFO - Epoch 1/2 - Loss: 0.0760
+2025-05-13 07:18:22,342 - client_37 - INFO - Epoch 2/2 - Loss: 0.0338
+2025-05-13 07:18:22,345 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:18:22,351 - client_37 - INFO - Data transmission successful
+2025-05-13 07:18:26,255 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:18:27,033 - client_37 - INFO - Epoch 1/2 - Loss: 0.0786
+2025-05-13 07:18:27,750 - client_37 - INFO - Epoch 2/2 - Loss: 0.0299
+2025-05-13 07:18:27,754 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:18:27,770 - client_37 - INFO - Data transmission successful
+2025-05-13 07:19:08,669 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:19:09,828 - client_37 - INFO - Epoch 1/2 - Loss: 0.1325
+2025-05-13 07:19:10,469 - client_37 - INFO - Epoch 2/2 - Loss: 0.0321
+2025-05-13 07:19:10,472 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:19:10,479 - client_37 - INFO - Data transmission successful
+2025-05-13 07:19:50,826 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:19:51,987 - client_37 - INFO - Epoch 1/2 - Loss: 0.0899
+2025-05-13 07:19:52,472 - client_37 - INFO - Epoch 2/2 - Loss: 0.0329
+2025-05-13 07:19:52,475 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:19:52,481 - client_37 - INFO - Data transmission successful
+2025-05-13 07:19:56,565 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:19:57,644 - client_37 - INFO - Epoch 1/2 - Loss: 0.0665
+2025-05-13 07:19:58,175 - client_37 - INFO - Epoch 2/2 - Loss: 0.0266
+2025-05-13 07:19:58,180 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:19:58,185 - client_37 - INFO - Data transmission successful
+2025-05-13 07:21:24,692 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:21:26,122 - client_37 - INFO - Epoch 1/2 - Loss: 0.1384
+2025-05-13 07:21:26,935 - client_37 - INFO - Epoch 2/2 - Loss: 0.0523
+2025-05-13 07:21:26,938 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:21:26,946 - client_37 - INFO - Data transmission successful
+2025-05-13 07:21:46,507 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: lenet5
+2025-05-13 07:21:47,395 - client_37 - INFO - Epoch 1/2 - Loss: 0.0650
+2025-05-13 07:21:48,030 - client_37 - INFO - Epoch 2/2 - Loss: 0.0266
+2025-05-13 07:21:48,033 - client_37 - INFO - Sent 250511 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:21:48,038 - client_37 - INFO - Data transmission successful
+2025-05-13 07:27:53,437 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:27:54,757 - client_37 - INFO - Epoch 1/2 - Loss: 1.4836
+2025-05-13 07:27:55,716 - client_37 - INFO - Epoch 2/2 - Loss: 0.4761
+2025-05-13 07:27:55,721 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:27:55,730 - client_37 - INFO - Data transmission successful
+2025-05-13 07:27:59,812 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:28:00,569 - client_37 - INFO - Epoch 1/2 - Loss: 0.9442
+2025-05-13 07:28:01,253 - client_37 - INFO - Epoch 2/2 - Loss: 0.3495
+2025-05-13 07:28:01,257 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:28:01,264 - client_37 - INFO - Data transmission successful
+2025-05-13 07:31:16,288 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:31:17,476 - client_37 - INFO - Epoch 1/2 - Loss: 0.2354
+2025-05-13 07:31:18,163 - client_37 - INFO - Epoch 2/2 - Loss: 0.1142
+2025-05-13 07:31:18,166 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:31:18,173 - client_37 - INFO - Data transmission successful
+2025-05-13 07:31:25,179 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:31:25,776 - client_37 - INFO - Epoch 1/2 - Loss: 0.1913
+2025-05-13 07:31:26,313 - client_37 - INFO - Epoch 2/2 - Loss: 0.0960
+2025-05-13 07:31:26,316 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:31:26,324 - client_37 - INFO - Data transmission successful
+2025-05-13 07:32:43,165 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:32:44,413 - client_37 - INFO - Epoch 1/2 - Loss: 0.1424
+2025-05-13 07:32:45,408 - client_37 - INFO - Epoch 2/2 - Loss: 0.0697
+2025-05-13 07:32:45,412 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:32:45,421 - client_37 - INFO - Data transmission successful
+2025-05-13 07:33:00,513 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:33:02,111 - client_37 - INFO - Epoch 1/2 - Loss: 0.2371
+2025-05-13 07:33:03,124 - client_37 - INFO - Epoch 2/2 - Loss: 0.1023
+2025-05-13 07:33:03,128 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:33:03,135 - client_37 - INFO - Data transmission successful
+2025-05-13 07:33:31,323 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:33:32,144 - client_37 - INFO - Epoch 1/2 - Loss: 0.2525
+2025-05-13 07:33:32,708 - client_37 - INFO - Epoch 2/2 - Loss: 0.0950
+2025-05-13 07:33:32,711 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:33:32,719 - client_37 - INFO - Data transmission successful
+2025-05-13 07:34:28,890 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:34:29,754 - client_37 - INFO - Epoch 1/2 - Loss: 0.1605
+2025-05-13 07:34:30,199 - client_37 - INFO - Epoch 2/2 - Loss: 0.0623
+2025-05-13 07:34:30,202 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:34:30,207 - client_37 - INFO - Data transmission successful
+2025-05-13 07:34:33,015 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:34:34,633 - client_37 - INFO - Epoch 1/2 - Loss: 0.0943
+2025-05-13 07:34:35,667 - client_37 - INFO - Epoch 2/2 - Loss: 0.0448
+2025-05-13 07:34:35,671 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:34:35,678 - client_37 - INFO - Data transmission successful
+2025-05-13 07:35:20,634 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:35:21,520 - client_37 - INFO - Epoch 1/2 - Loss: 0.2165
+2025-05-13 07:35:22,016 - client_37 - INFO - Epoch 2/2 - Loss: 0.0690
+2025-05-13 07:35:22,020 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:35:22,026 - client_37 - INFO - Data transmission successful
+2025-05-13 07:35:27,650 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:35:28,356 - client_37 - INFO - Epoch 1/2 - Loss: 0.1621
+2025-05-13 07:35:28,845 - client_37 - INFO - Epoch 2/2 - Loss: 0.0707
+2025-05-13 07:35:28,850 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:35:28,860 - client_37 - INFO - Data transmission successful
+2025-05-13 07:35:42,277 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:35:42,851 - client_37 - INFO - Epoch 1/2 - Loss: 0.0868
+2025-05-13 07:35:43,322 - client_37 - INFO - Epoch 2/2 - Loss: 0.0409
+2025-05-13 07:35:43,325 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:35:43,331 - client_37 - INFO - Data transmission successful
+2025-05-13 07:37:14,551 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:37:15,454 - client_37 - INFO - Epoch 1/2 - Loss: 0.0565
+2025-05-13 07:37:15,886 - client_37 - INFO - Epoch 2/2 - Loss: 0.0335
+2025-05-13 07:37:15,889 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:37:15,895 - client_37 - INFO - Data transmission successful
+2025-05-13 07:37:19,458 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:37:20,191 - client_37 - INFO - Epoch 1/2 - Loss: 0.1663
+2025-05-13 07:37:20,768 - client_37 - INFO - Epoch 2/2 - Loss: 0.0405
+2025-05-13 07:37:20,771 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:37:20,779 - client_37 - INFO - Data transmission successful
+2025-05-13 07:37:58,731 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:37:59,517 - client_37 - INFO - Epoch 1/2 - Loss: 0.1459
+2025-05-13 07:38:00,124 - client_37 - INFO - Epoch 2/2 - Loss: 0.0424
+2025-05-13 07:38:00,127 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:38:00,134 - client_37 - INFO - Data transmission successful
+2025-05-13 07:38:38,179 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:38:39,499 - client_37 - INFO - Epoch 1/2 - Loss: 0.1764
+2025-05-13 07:38:40,122 - client_37 - INFO - Epoch 2/2 - Loss: 0.0444
+2025-05-13 07:38:40,125 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:38:40,131 - client_37 - INFO - Data transmission successful
+2025-05-13 07:38:43,586 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:38:44,374 - client_37 - INFO - Epoch 1/2 - Loss: 0.1624
+2025-05-13 07:38:44,859 - client_37 - INFO - Epoch 2/2 - Loss: 0.0629
+2025-05-13 07:38:44,861 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:38:44,868 - client_37 - INFO - Data transmission successful
+2025-05-13 07:40:04,621 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:40:05,480 - client_37 - INFO - Epoch 1/2 - Loss: 0.2331
+2025-05-13 07:40:06,202 - client_37 - INFO - Epoch 2/2 - Loss: 0.0704
+2025-05-13 07:40:06,205 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:40:06,214 - client_37 - INFO - Data transmission successful
+2025-05-13 07:40:24,303 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: lenet5
+2025-05-13 07:40:24,972 - client_37 - INFO - Epoch 1/2 - Loss: 0.1080
+2025-05-13 07:40:25,455 - client_37 - INFO - Epoch 2/2 - Loss: 0.0444
+2025-05-13 07:40:25,458 - client_37 - INFO - Sent 250513 bytes to server (weights size: 250359 bytes, client data size: 348, sparse: False)
+2025-05-13 07:40:25,464 - client_37 - INFO - Data transmission successful
+2025-05-13 14:34:32,976 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:34:35,842 - client_37 - INFO - Epoch 1/2 - Loss: 1.2969
+2025-05-13 14:34:36,533 - client_37 - INFO - Epoch 2/2 - Loss: 0.4608
+2025-05-13 14:34:36,534 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:34:36,537 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:34:36,544 - client_37 - INFO - Data transmission successful
+2025-05-13 14:34:40,568 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:34:43,242 - client_37 - INFO - Epoch 1/2 - Loss: 0.7525
+2025-05-13 14:34:43,833 - client_37 - INFO - Epoch 2/2 - Loss: 0.3028
+2025-05-13 14:34:43,834 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:34:43,837 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:34:43,843 - client_37 - INFO - Data transmission successful
+2025-05-13 14:38:28,729 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:38:31,433 - client_37 - INFO - Epoch 1/2 - Loss: 0.2645
+2025-05-13 14:38:32,156 - client_37 - INFO - Epoch 2/2 - Loss: 0.1207
+2025-05-13 14:38:32,157 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:38:32,160 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:38:32,167 - client_37 - INFO - Data transmission successful
+2025-05-13 14:38:39,440 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:38:41,972 - client_37 - INFO - Epoch 1/2 - Loss: 0.2115
+2025-05-13 14:38:42,526 - client_37 - INFO - Epoch 2/2 - Loss: 0.0987
+2025-05-13 14:38:42,527 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:38:42,530 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:38:42,536 - client_37 - INFO - Data transmission successful
+2025-05-13 14:40:13,581 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:40:16,539 - client_37 - INFO - Epoch 1/2 - Loss: 0.1828
+2025-05-13 14:40:17,464 - client_37 - INFO - Epoch 2/2 - Loss: 0.0736
+2025-05-13 14:40:17,466 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:40:17,469 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:40:17,477 - client_37 - INFO - Data transmission successful
+2025-05-13 14:40:32,894 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:40:36,026 - client_37 - INFO - Epoch 1/2 - Loss: 0.1423
+2025-05-13 14:40:36,918 - client_37 - INFO - Epoch 2/2 - Loss: 0.0627
+2025-05-13 14:40:36,920 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:40:36,923 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:40:36,932 - client_37 - INFO - Data transmission successful
+2025-05-13 14:41:08,825 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:41:11,392 - client_37 - INFO - Epoch 1/2 - Loss: 0.1871
+2025-05-13 14:41:11,951 - client_37 - INFO - Epoch 2/2 - Loss: 0.0597
+2025-05-13 14:41:11,951 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:41:11,954 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:41:11,961 - client_37 - INFO - Data transmission successful
+2025-05-13 14:42:18,539 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:42:21,083 - client_37 - INFO - Epoch 1/2 - Loss: 0.1394
+2025-05-13 14:42:21,499 - client_37 - INFO - Epoch 2/2 - Loss: 0.0525
+2025-05-13 14:42:21,500 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:42:21,503 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:42:21,508 - client_37 - INFO - Data transmission successful
+2025-05-13 14:42:24,339 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:42:27,383 - client_37 - INFO - Epoch 1/2 - Loss: 0.1120
+2025-05-13 14:42:28,329 - client_37 - INFO - Epoch 2/2 - Loss: 0.0490
+2025-05-13 14:42:28,331 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:42:28,334 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:42:28,342 - client_37 - INFO - Data transmission successful
+2025-05-13 14:43:21,060 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:43:23,676 - client_37 - INFO - Epoch 1/2 - Loss: 0.1081
+2025-05-13 14:43:24,157 - client_37 - INFO - Epoch 2/2 - Loss: 0.0389
+2025-05-13 14:43:24,158 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:43:24,161 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:43:24,167 - client_37 - INFO - Data transmission successful
+2025-05-13 14:43:29,773 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:43:32,227 - client_37 - INFO - Epoch 1/2 - Loss: 0.0992
+2025-05-13 14:43:32,712 - client_37 - INFO - Epoch 2/2 - Loss: 0.0350
+2025-05-13 14:43:32,713 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:43:32,716 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:43:32,723 - client_37 - INFO - Data transmission successful
+2025-05-13 14:43:47,471 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:43:49,918 - client_37 - INFO - Epoch 1/2 - Loss: 0.0900
+2025-05-13 14:43:50,379 - client_37 - INFO - Epoch 2/2 - Loss: 0.0325
+2025-05-13 14:43:50,380 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:43:50,382 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:43:50,388 - client_37 - INFO - Data transmission successful
+2025-05-13 14:45:38,380 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:45:41,040 - client_37 - INFO - Epoch 1/2 - Loss: 0.0837
+2025-05-13 14:45:41,438 - client_37 - INFO - Epoch 2/2 - Loss: 0.0244
+2025-05-13 14:45:41,438 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:45:41,441 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:45:41,446 - client_37 - INFO - Data transmission successful
+2025-05-13 14:45:45,019 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:45:47,665 - client_37 - INFO - Epoch 1/2 - Loss: 0.0855
+2025-05-13 14:45:48,244 - client_37 - INFO - Epoch 2/2 - Loss: 0.0201
+2025-05-13 14:45:48,245 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:45:48,248 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:45:48,255 - client_37 - INFO - Data transmission successful
+2025-05-13 14:46:35,201 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:46:37,912 - client_37 - INFO - Epoch 1/2 - Loss: 0.0888
+2025-05-13 14:46:38,497 - client_37 - INFO - Epoch 2/2 - Loss: 0.0254
+2025-05-13 14:46:38,497 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:46:38,500 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:46:38,508 - client_37 - INFO - Data transmission successful
+2025-05-13 14:47:21,749 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:47:24,396 - client_37 - INFO - Epoch 1/2 - Loss: 0.0819
+2025-05-13 14:47:24,826 - client_37 - INFO - Epoch 2/2 - Loss: 0.0283
+2025-05-13 14:47:24,826 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:47:24,829 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:47:24,834 - client_37 - INFO - Data transmission successful
+2025-05-13 14:47:28,294 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:47:30,708 - client_37 - INFO - Epoch 1/2 - Loss: 0.0734
+2025-05-13 14:47:31,080 - client_37 - INFO - Epoch 2/2 - Loss: 0.0293
+2025-05-13 14:47:31,081 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:47:31,083 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:47:31,087 - client_37 - INFO - Data transmission successful
+2025-05-13 14:49:02,730 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:49:05,480 - client_37 - INFO - Epoch 1/2 - Loss: 0.1054
+2025-05-13 14:49:06,228 - client_37 - INFO - Epoch 2/2 - Loss: 0.0314
+2025-05-13 14:49:06,229 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:49:06,231 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:49:06,239 - client_37 - INFO - Data transmission successful
+2025-05-13 14:49:28,436 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 14:49:31,390 - client_37 - INFO - Epoch 1/2 - Loss: 0.1107
+2025-05-13 14:49:31,999 - client_37 - INFO - Epoch 2/2 - Loss: 0.0234
+2025-05-13 14:49:32,000 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 14:49:32,004 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 14:49:32,011 - client_37 - INFO - Data transmission successful
+2025-05-13 15:15:03,681 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:15:06,586 - client_37 - INFO - Epoch 1/2 - Loss: 1.3230
+2025-05-13 15:15:07,269 - client_37 - INFO - Epoch 2/2 - Loss: 0.4596
+2025-05-13 15:15:07,270 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:15:07,273 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:15:07,281 - client_37 - INFO - Data transmission successful
+2025-05-13 15:15:11,679 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:15:14,677 - client_37 - INFO - Epoch 1/2 - Loss: 0.7628
+2025-05-13 15:15:15,288 - client_37 - INFO - Epoch 2/2 - Loss: 0.2985
+2025-05-13 15:15:15,289 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:15:15,291 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:15:15,299 - client_37 - INFO - Data transmission successful
+2025-05-13 15:19:08,333 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:19:11,600 - client_37 - INFO - Epoch 1/2 - Loss: 0.2567
+2025-05-13 15:19:12,903 - client_37 - INFO - Epoch 2/2 - Loss: 0.1124
+2025-05-13 15:19:12,904 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:19:12,906 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:19:12,914 - client_37 - INFO - Data transmission successful
+2025-05-13 15:19:21,173 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:19:23,967 - client_37 - INFO - Epoch 1/2 - Loss: 0.1973
+2025-05-13 15:19:24,536 - client_37 - INFO - Epoch 2/2 - Loss: 0.0982
+2025-05-13 15:19:24,537 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:19:24,539 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:19:24,546 - client_37 - INFO - Data transmission successful
+2025-05-13 15:20:55,879 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:20:59,073 - client_37 - INFO - Epoch 1/2 - Loss: 0.1880
+2025-05-13 15:20:59,985 - client_37 - INFO - Epoch 2/2 - Loss: 0.0651
+2025-05-13 15:20:59,987 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:20:59,989 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:20:59,999 - client_37 - INFO - Data transmission successful
+2025-05-13 15:21:15,666 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:21:18,975 - client_37 - INFO - Epoch 1/2 - Loss: 0.1440
+2025-05-13 15:21:19,924 - client_37 - INFO - Epoch 2/2 - Loss: 0.0614
+2025-05-13 15:21:19,926 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:21:19,929 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:21:19,937 - client_37 - INFO - Data transmission successful
+2025-05-13 15:21:52,073 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:21:55,005 - client_37 - INFO - Epoch 1/2 - Loss: 0.1713
+2025-05-13 15:21:55,180 - client_37 - INFO - Epoch 2/2 - Loss: 0.0516
+2025-05-13 15:21:55,180 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:21:55,182 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:21:55,185 - client_37 - INFO - Data transmission successful
+2025-05-13 15:23:07,402 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:23:10,530 - client_37 - INFO - Epoch 1/2 - Loss: 0.1452
+2025-05-13 15:23:11,341 - client_37 - INFO - Epoch 2/2 - Loss: 0.0499
+2025-05-13 15:23:11,342 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:23:11,345 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:23:11,349 - client_37 - INFO - Data transmission successful
+2025-05-13 15:23:14,031 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:23:17,413 - client_37 - INFO - Epoch 1/2 - Loss: 0.1187
+2025-05-13 15:23:18,369 - client_37 - INFO - Epoch 2/2 - Loss: 0.0458
+2025-05-13 15:23:18,371 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:23:18,373 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:23:18,384 - client_37 - INFO - Data transmission successful
+2025-05-13 15:24:12,771 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:24:15,485 - client_37 - INFO - Epoch 1/2 - Loss: 0.1058
+2025-05-13 15:24:15,978 - client_37 - INFO - Epoch 2/2 - Loss: 0.0340
+2025-05-13 15:24:15,979 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:24:15,982 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:24:15,988 - client_37 - INFO - Data transmission successful
+2025-05-13 15:24:21,938 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:24:25,099 - client_37 - INFO - Epoch 1/2 - Loss: 0.1020
+2025-05-13 15:24:25,628 - client_37 - INFO - Epoch 2/2 - Loss: 0.0308
+2025-05-13 15:24:25,628 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:24:25,631 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:24:25,637 - client_37 - INFO - Data transmission successful
+2025-05-13 15:24:41,213 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:24:43,741 - client_37 - INFO - Epoch 1/2 - Loss: 0.0885
+2025-05-13 15:24:44,205 - client_37 - INFO - Epoch 2/2 - Loss: 0.0376
+2025-05-13 15:24:44,206 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:24:44,209 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:24:44,215 - client_37 - INFO - Data transmission successful
+2025-05-13 15:26:47,921 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:26:50,792 - client_37 - INFO - Epoch 1/2 - Loss: 0.0813
+2025-05-13 15:26:51,203 - client_37 - INFO - Epoch 2/2 - Loss: 0.0306
+2025-05-13 15:26:51,203 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:26:51,206 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:26:51,212 - client_37 - INFO - Data transmission successful
+2025-05-13 15:26:54,767 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:26:57,585 - client_37 - INFO - Epoch 1/2 - Loss: 0.0802
+2025-05-13 15:26:58,251 - client_37 - INFO - Epoch 2/2 - Loss: 0.0395
+2025-05-13 15:26:58,252 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:26:58,254 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:26:58,261 - client_37 - INFO - Data transmission successful
+2025-05-13 15:27:47,384 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:27:50,063 - client_37 - INFO - Epoch 1/2 - Loss: 0.0776
+2025-05-13 15:27:50,647 - client_37 - INFO - Epoch 2/2 - Loss: 0.0234
+2025-05-13 15:27:50,648 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:27:50,652 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:27:50,659 - client_37 - INFO - Data transmission successful
+2025-05-13 15:28:35,980 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:28:38,617 - client_37 - INFO - Epoch 1/2 - Loss: 0.0741
+2025-05-13 15:28:39,044 - client_37 - INFO - Epoch 2/2 - Loss: 0.0262
+2025-05-13 15:28:39,044 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:28:39,047 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:28:39,052 - client_37 - INFO - Data transmission successful
+2025-05-13 15:28:42,592 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:28:45,063 - client_37 - INFO - Epoch 1/2 - Loss: 0.0714
+2025-05-13 15:28:45,441 - client_37 - INFO - Epoch 2/2 - Loss: 0.0300
+2025-05-13 15:28:45,442 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:28:45,444 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:28:45,449 - client_37 - INFO - Data transmission successful
+2025-05-13 15:30:20,940 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:30:23,774 - client_37 - INFO - Epoch 1/2 - Loss: 0.1038
+2025-05-13 15:30:24,499 - client_37 - INFO - Epoch 2/2 - Loss: 0.0303
+2025-05-13 15:30:24,500 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:30:24,503 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:30:24,512 - client_37 - INFO - Data transmission successful
+2025-05-13 15:30:47,609 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: lenet5
+2025-05-13 15:30:50,438 - client_37 - INFO - Epoch 1/2 - Loss: 0.0888
+2025-05-13 15:30:50,971 - client_37 - INFO - Epoch 2/2 - Loss: 0.0293
+2025-05-13 15:30:50,972 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:30:50,974 - client_37 - INFO - Sent 250184 bytes to server (weights size: 250032 bytes, client data size: 348, sparse: False)
+2025-05-13 15:30:50,981 - client_37 - INFO - Data transmission successful
+2025-05-13 15:54:12,432 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 15:55:57,128 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 15:57:23,118 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 15:57:31,710 - client_37 - INFO - Epoch 1/2 - Loss: 0.8184
+2025-05-13 15:57:34,636 - client_37 - INFO - Epoch 2/2 - Loss: 0.4248
+2025-05-13 15:57:34,640 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:57:34,649 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 15:57:34,672 - client_37 - INFO - Data transmission successful
+2025-05-13 15:57:39,229 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 15:57:49,849 - client_37 - INFO - Epoch 1/2 - Loss: 0.4967
+2025-05-13 15:57:56,699 - client_37 - INFO - Epoch 2/2 - Loss: 0.3424
+2025-05-13 15:57:56,704 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 15:57:56,713 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 15:57:56,743 - client_37 - INFO - Data transmission successful
+2025-05-13 16:04:23,196 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:04:31,422 - client_37 - INFO - Epoch 1/2 - Loss: 0.2349
+2025-05-13 16:04:34,280 - client_37 - INFO - Epoch 2/2 - Loss: 0.1704
+2025-05-13 16:04:34,285 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:04:34,294 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:04:34,335 - client_37 - INFO - Data transmission successful
+2025-05-13 16:04:40,113 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:04:47,126 - client_37 - INFO - Epoch 1/2 - Loss: 0.2066
+2025-05-13 16:04:49,763 - client_37 - INFO - Epoch 2/2 - Loss: 0.1729
+2025-05-13 16:04:49,768 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:04:49,776 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:04:49,804 - client_37 - INFO - Data transmission successful
+2025-05-13 16:07:28,418 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:07:38,021 - client_37 - INFO - Epoch 1/2 - Loss: 0.1929
+2025-05-13 16:07:42,942 - client_37 - INFO - Epoch 2/2 - Loss: 0.1417
+2025-05-13 16:07:42,949 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:07:42,959 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:07:42,992 - client_37 - INFO - Data transmission successful
+2025-05-13 16:08:11,554 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:08:19,484 - client_37 - INFO - Epoch 1/2 - Loss: 0.1934
+2025-05-13 16:08:23,389 - client_37 - INFO - Epoch 2/2 - Loss: 0.1333
+2025-05-13 16:08:23,394 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:08:23,404 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:08:23,433 - client_37 - INFO - Data transmission successful
+2025-05-13 16:09:29,412 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:09:37,021 - client_37 - INFO - Epoch 1/2 - Loss: 0.2157
+2025-05-13 16:09:39,708 - client_37 - INFO - Epoch 2/2 - Loss: 0.1359
+2025-05-13 16:09:39,712 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:09:39,721 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:09:39,749 - client_37 - INFO - Data transmission successful
+2025-05-13 16:11:58,764 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:12:06,155 - client_37 - INFO - Epoch 1/2 - Loss: 0.2105
+2025-05-13 16:12:09,089 - client_37 - INFO - Epoch 2/2 - Loss: 0.1272
+2025-05-13 16:12:09,094 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:12:09,106 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:12:09,134 - client_37 - INFO - Data transmission successful
+2025-05-13 16:12:12,711 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:12:22,224 - client_37 - INFO - Epoch 1/2 - Loss: 0.2042
+2025-05-13 16:12:26,245 - client_37 - INFO - Epoch 2/2 - Loss: 0.1800
+2025-05-13 16:12:26,251 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:12:26,261 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:12:26,294 - client_37 - INFO - Data transmission successful
+2025-05-13 16:13:51,503 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:13:58,079 - client_37 - INFO - Epoch 1/2 - Loss: 0.1774
+2025-05-13 16:14:00,493 - client_37 - INFO - Epoch 2/2 - Loss: 0.1312
+2025-05-13 16:14:00,497 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:14:00,506 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:14:00,532 - client_37 - INFO - Data transmission successful
+2025-05-13 16:14:04,638 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:14:10,995 - client_37 - INFO - Epoch 1/2 - Loss: 0.1637
+2025-05-13 16:14:12,759 - client_37 - INFO - Epoch 2/2 - Loss: 0.1346
+2025-05-13 16:14:12,760 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:14:12,769 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:14:12,782 - client_37 - INFO - Data transmission successful
+2025-05-13 16:14:38,158 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:14:44,719 - client_37 - INFO - Epoch 1/2 - Loss: 0.1830
+2025-05-13 16:14:46,482 - client_37 - INFO - Epoch 2/2 - Loss: 0.1220
+2025-05-13 16:14:46,484 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:14:46,493 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:14:46,515 - client_37 - INFO - Data transmission successful
+2025-05-13 16:18:03,920 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:18:11,305 - client_37 - INFO - Epoch 1/2 - Loss: 0.1816
+2025-05-13 16:18:13,642 - client_37 - INFO - Epoch 2/2 - Loss: 0.1329
+2025-05-13 16:18:13,645 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:18:13,654 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:18:13,679 - client_37 - INFO - Data transmission successful
+2025-05-13 16:18:18,397 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:18:25,483 - client_37 - INFO - Epoch 1/2 - Loss: 0.1643
+2025-05-13 16:18:28,226 - client_37 - INFO - Epoch 2/2 - Loss: 0.1221
+2025-05-13 16:18:28,231 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:18:28,240 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:18:28,268 - client_37 - INFO - Data transmission successful
+2025-05-13 16:19:52,809 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:20:00,291 - client_37 - INFO - Epoch 1/2 - Loss: 0.1675
+2025-05-13 16:20:02,950 - client_37 - INFO - Epoch 2/2 - Loss: 0.1326
+2025-05-13 16:20:02,952 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:20:02,961 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:20:02,987 - client_37 - INFO - Data transmission successful
+2025-05-13 16:21:44,501 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:21:53,812 - client_37 - INFO - Epoch 1/2 - Loss: 0.2274
+2025-05-13 16:21:56,547 - client_37 - INFO - Epoch 2/2 - Loss: 0.1412
+2025-05-13 16:21:56,551 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:21:56,559 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:21:56,578 - client_37 - INFO - Data transmission successful
+2025-05-13 16:22:00,774 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:22:07,556 - client_37 - INFO - Epoch 1/2 - Loss: 0.1805
+2025-05-13 16:22:09,821 - client_37 - INFO - Epoch 2/2 - Loss: 0.1356
+2025-05-13 16:22:09,825 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:22:09,834 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:22:09,861 - client_37 - INFO - Data transmission successful
+2025-05-13 16:25:19,017 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:25:26,681 - client_37 - INFO - Epoch 1/2 - Loss: 0.1761
+2025-05-13 16:25:29,514 - client_37 - INFO - Epoch 2/2 - Loss: 0.1187
+2025-05-13 16:25:29,519 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:25:29,528 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:25:29,555 - client_37 - INFO - Data transmission successful
+2025-05-13 16:26:07,196 - client_37 - INFO - Client 37 started with algorithm: fedewma, model: resnet18fashion
+2025-05-13 16:26:13,866 - client_37 - INFO - Epoch 1/2 - Loss: 0.1414
+2025-05-13 16:26:16,121 - client_37 - INFO - Epoch 2/2 - Loss: 0.1201
+2025-05-13 16:26:16,124 - client_37 - INFO - Client 37 sending full delta weights
+2025-05-13 16:26:16,133 - client_37 - INFO - Sent 716145 bytes to server (weights size: 715993 bytes, client data size: 767, sparse: False)
+2025-05-13 16:26:16,152 - client_37 - INFO - Data transmission successful
+2025-05-14 07:21:46,995 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:21:53,641 - client_37 - INFO - Epoch 1/2 - Loss: 0.7957
+2025-05-14 07:21:56,035 - client_37 - INFO - Epoch 2/2 - Loss: 0.4277
+2025-05-14 07:21:56,046 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:21:56,059 - client_37 - INFO - Data transmission successful
+2025-05-14 07:22:08,665 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:22:14,942 - client_37 - INFO - Epoch 1/2 - Loss: 0.4478
+2025-05-14 07:22:19,206 - client_37 - INFO - Epoch 2/2 - Loss: 0.3286
+2025-05-14 07:22:19,218 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:22:19,247 - client_37 - INFO - Data transmission successful
+2025-05-14 07:28:56,822 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:29:03,310 - client_37 - INFO - Epoch 1/2 - Loss: 0.2332
+2025-05-14 07:29:07,227 - client_37 - INFO - Epoch 2/2 - Loss: 0.1633
+2025-05-14 07:29:07,239 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:29:07,263 - client_37 - INFO - Data transmission successful
+2025-05-14 07:29:14,890 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:29:20,007 - client_37 - INFO - Epoch 1/2 - Loss: 0.2109
+2025-05-14 07:29:23,854 - client_37 - INFO - Epoch 2/2 - Loss: 0.1635
+2025-05-14 07:29:23,867 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:29:23,897 - client_37 - INFO - Data transmission successful
+2025-05-14 07:31:56,446 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:32:03,424 - client_37 - INFO - Epoch 1/2 - Loss: 0.2125
+2025-05-14 07:32:08,475 - client_37 - INFO - Epoch 2/2 - Loss: 0.1448
+2025-05-14 07:32:08,489 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:32:08,524 - client_37 - INFO - Data transmission successful
+2025-05-14 07:32:38,740 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:32:45,598 - client_37 - INFO - Epoch 1/2 - Loss: 0.1877
+2025-05-14 07:32:50,199 - client_37 - INFO - Epoch 2/2 - Loss: 0.1312
+2025-05-14 07:32:50,211 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:32:50,234 - client_37 - INFO - Data transmission successful
+2025-05-14 07:33:49,718 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:33:55,544 - client_37 - INFO - Epoch 1/2 - Loss: 0.1999
+2025-05-14 07:33:59,152 - client_37 - INFO - Epoch 2/2 - Loss: 0.1431
+2025-05-14 07:33:59,163 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:33:59,190 - client_37 - INFO - Data transmission successful
+2025-05-14 07:36:18,540 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:36:22,567 - client_37 - INFO - Epoch 1/2 - Loss: 0.2049
+2025-05-14 07:36:24,519 - client_37 - INFO - Epoch 2/2 - Loss: 0.1275
+2025-05-14 07:36:24,537 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:36:24,566 - client_37 - INFO - Data transmission successful
+2025-05-14 07:36:33,268 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:36:40,853 - client_37 - INFO - Epoch 1/2 - Loss: 0.1790
+2025-05-14 07:36:46,878 - client_37 - INFO - Epoch 2/2 - Loss: 0.1341
+2025-05-14 07:36:46,893 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:36:46,925 - client_37 - INFO - Data transmission successful
+2025-05-14 07:38:11,544 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:38:15,969 - client_37 - INFO - Epoch 1/2 - Loss: 0.2013
+2025-05-14 07:38:19,310 - client_37 - INFO - Epoch 2/2 - Loss: 0.1336
+2025-05-14 07:38:19,321 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:38:19,346 - client_37 - INFO - Data transmission successful
+2025-05-14 07:38:24,043 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:38:26,760 - client_37 - INFO - Epoch 1/2 - Loss: 0.1627
+2025-05-14 07:38:28,273 - client_37 - INFO - Epoch 2/2 - Loss: 0.1393
+2025-05-14 07:38:28,282 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:38:28,298 - client_37 - INFO - Data transmission successful
+2025-05-14 07:38:57,756 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:39:02,296 - client_37 - INFO - Epoch 1/2 - Loss: 0.1893
+2025-05-14 07:39:04,674 - client_37 - INFO - Epoch 2/2 - Loss: 0.1153
+2025-05-14 07:39:04,686 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:39:04,709 - client_37 - INFO - Data transmission successful
+2025-05-14 07:42:15,065 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:42:20,622 - client_37 - INFO - Epoch 1/2 - Loss: 0.1846
+2025-05-14 07:42:23,991 - client_37 - INFO - Epoch 2/2 - Loss: 0.1405
+2025-05-14 07:42:24,002 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:42:24,023 - client_37 - INFO - Data transmission successful
+2025-05-14 07:42:29,075 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:42:34,187 - client_37 - INFO - Epoch 1/2 - Loss: 0.1532
+2025-05-14 07:42:37,646 - client_37 - INFO - Epoch 2/2 - Loss: 0.1179
+2025-05-14 07:42:37,658 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:42:37,687 - client_37 - INFO - Data transmission successful
+2025-05-14 07:43:59,934 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:44:05,176 - client_37 - INFO - Epoch 1/2 - Loss: 0.2182
+2025-05-14 07:44:08,707 - client_37 - INFO - Epoch 2/2 - Loss: 0.1388
+2025-05-14 07:44:08,721 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:44:08,747 - client_37 - INFO - Data transmission successful
+2025-05-14 07:45:43,468 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:45:49,583 - client_37 - INFO - Epoch 1/2 - Loss: 0.1843
+2025-05-14 07:45:53,347 - client_37 - INFO - Epoch 2/2 - Loss: 0.1259
+2025-05-14 07:45:53,360 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:45:53,386 - client_37 - INFO - Data transmission successful
+2025-05-14 07:45:59,649 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:46:04,176 - client_37 - INFO - Epoch 1/2 - Loss: 0.1438
+2025-05-14 07:46:07,079 - client_37 - INFO - Epoch 2/2 - Loss: 0.1231
+2025-05-14 07:46:07,095 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:46:07,120 - client_37 - INFO - Data transmission successful
+2025-05-14 07:48:59,591 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:49:05,717 - client_37 - INFO - Epoch 1/2 - Loss: 0.1481
+2025-05-14 07:49:09,327 - client_37 - INFO - Epoch 2/2 - Loss: 0.1282
+2025-05-14 07:49:09,341 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:49:09,368 - client_37 - INFO - Data transmission successful
+2025-05-14 07:49:47,481 - client_37 - INFO - Client 37 started with algorithm: fedprox, model: resnet18fashion
+2025-05-14 07:49:51,996 - client_37 - INFO - Epoch 1/2 - Loss: 0.1976
+2025-05-14 07:49:55,026 - client_37 - INFO - Epoch 2/2 - Loss: 0.1351
+2025-05-14 07:49:55,039 - client_37 - INFO - Sent 717496 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 07:49:55,649 - client_37 - INFO - Data transmission successful
+2025-05-14 08:36:11,315 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:36:17,249 - client_37 - INFO - Epoch 1/2 - Loss: 0.9052
+2025-05-14 08:36:19,320 - client_37 - INFO - Epoch 2/2 - Loss: 0.4613
+2025-05-14 08:36:19,331 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:36:19,347 - client_37 - INFO - Data transmission successful
+2025-05-14 08:36:30,164 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:36:36,897 - client_37 - INFO - Epoch 1/2 - Loss: 0.4740
+2025-05-14 08:36:40,290 - client_37 - INFO - Epoch 2/2 - Loss: 0.3369
+2025-05-14 08:36:40,303 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:36:40,334 - client_37 - INFO - Data transmission successful
+2025-05-14 08:43:00,373 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:43:06,747 - client_37 - INFO - Epoch 1/2 - Loss: 0.2229
+2025-05-14 08:43:10,030 - client_37 - INFO - Epoch 2/2 - Loss: 0.1677
+2025-05-14 08:43:10,043 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:43:10,074 - client_37 - INFO - Data transmission successful
+2025-05-14 08:43:16,707 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:43:22,668 - client_37 - INFO - Epoch 1/2 - Loss: 0.2732
+2025-05-14 08:43:26,348 - client_37 - INFO - Epoch 2/2 - Loss: 0.1830
+2025-05-14 08:43:26,362 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:43:26,397 - client_37 - INFO - Data transmission successful
+2025-05-14 08:46:15,225 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:46:23,111 - client_37 - INFO - Epoch 1/2 - Loss: 0.2064
+2025-05-14 08:46:27,375 - client_37 - INFO - Epoch 2/2 - Loss: 0.1412
+2025-05-14 08:46:27,391 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:46:27,433 - client_37 - INFO - Data transmission successful
+2025-05-14 08:46:56,222 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:47:03,161 - client_37 - INFO - Epoch 1/2 - Loss: 0.2018
+2025-05-14 08:47:06,977 - client_37 - INFO - Epoch 2/2 - Loss: 0.1595
+2025-05-14 08:47:06,990 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:47:07,012 - client_37 - INFO - Data transmission successful
+2025-05-14 08:48:01,464 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:48:06,548 - client_37 - INFO - Epoch 1/2 - Loss: 0.2148
+2025-05-14 08:48:09,604 - client_37 - INFO - Epoch 2/2 - Loss: 0.1366
+2025-05-14 08:48:09,616 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:48:09,641 - client_37 - INFO - Data transmission successful
+2025-05-14 08:50:08,019 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:50:13,519 - client_37 - INFO - Epoch 1/2 - Loss: 0.1828
+2025-05-14 08:50:16,647 - client_37 - INFO - Epoch 2/2 - Loss: 0.1426
+2025-05-14 08:50:16,661 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:50:16,689 - client_37 - INFO - Data transmission successful
+2025-05-14 08:50:20,499 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:50:27,136 - client_37 - INFO - Epoch 1/2 - Loss: 0.1806
+2025-05-14 08:50:31,856 - client_37 - INFO - Epoch 2/2 - Loss: 0.1313
+2025-05-14 08:50:31,870 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:50:31,901 - client_37 - INFO - Data transmission successful
+2025-05-14 08:51:48,199 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:51:52,425 - client_37 - INFO - Epoch 1/2 - Loss: 0.2024
+2025-05-14 08:51:55,009 - client_37 - INFO - Epoch 2/2 - Loss: 0.1384
+2025-05-14 08:51:55,022 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:51:55,045 - client_37 - INFO - Data transmission successful
+2025-05-14 08:51:59,825 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:52:03,450 - client_37 - INFO - Epoch 1/2 - Loss: 0.1799
+2025-05-14 08:52:05,182 - client_37 - INFO - Epoch 2/2 - Loss: 0.1310
+2025-05-14 08:52:05,193 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:52:05,208 - client_37 - INFO - Data transmission successful
+2025-05-14 08:52:26,550 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:52:30,353 - client_37 - INFO - Epoch 1/2 - Loss: 0.2079
+2025-05-14 08:52:32,430 - client_37 - INFO - Epoch 2/2 - Loss: 0.1481
+2025-05-14 08:52:32,441 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:52:32,458 - client_37 - INFO - Data transmission successful
+2025-05-14 08:55:30,505 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:55:35,738 - client_37 - INFO - Epoch 1/2 - Loss: 0.1742
+2025-05-14 08:55:38,326 - client_37 - INFO - Epoch 2/2 - Loss: 0.1235
+2025-05-14 08:55:38,337 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:55:38,357 - client_37 - INFO - Data transmission successful
+2025-05-14 08:55:42,754 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:55:48,454 - client_37 - INFO - Epoch 1/2 - Loss: 0.1565
+2025-05-14 08:55:51,589 - client_37 - INFO - Epoch 2/2 - Loss: 0.1462
+2025-05-14 08:55:51,601 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:55:51,633 - client_37 - INFO - Data transmission successful
+2025-05-14 08:57:12,309 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:57:17,934 - client_37 - INFO - Epoch 1/2 - Loss: 0.2280
+2025-05-14 08:57:20,800 - client_37 - INFO - Epoch 2/2 - Loss: 0.1411
+2025-05-14 08:57:20,811 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:57:20,835 - client_37 - INFO - Data transmission successful
+2025-05-14 08:58:40,868 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:58:45,915 - client_37 - INFO - Epoch 1/2 - Loss: 0.1725
+2025-05-14 08:58:48,818 - client_37 - INFO - Epoch 2/2 - Loss: 0.1308
+2025-05-14 08:58:48,829 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:58:48,858 - client_37 - INFO - Data transmission successful
+2025-05-14 08:58:55,191 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 08:58:59,340 - client_37 - INFO - Epoch 1/2 - Loss: 0.1690
+2025-05-14 08:59:02,023 - client_37 - INFO - Epoch 2/2 - Loss: 0.1364
+2025-05-14 08:59:02,033 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 08:59:02,059 - client_37 - INFO - Data transmission successful
+2025-05-14 09:01:38,584 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 09:01:45,755 - client_37 - INFO - Epoch 1/2 - Loss: 0.1705
+2025-05-14 09:01:52,762 - client_37 - INFO - Epoch 2/2 - Loss: 0.1384
+2025-05-14 09:01:52,777 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 09:01:52,793 - client_37 - INFO - Data transmission successful
+2025-05-14 09:02:33,172 - client_37 - INFO - Client 37 started with algorithm: fedavg, model: resnet18fashion
+2025-05-14 09:02:38,944 - client_37 - INFO - Epoch 1/2 - Loss: 0.1899
+2025-05-14 09:02:41,487 - client_37 - INFO - Epoch 2/2 - Loss: 0.1214
+2025-05-14 09:02:41,500 - client_37 - INFO - Sent 717498 bytes to server (weights size: 717344 bytes, client data size: 767, sparse: False)
+2025-05-14 09:02:41,524 - client_37 - INFO - Data transmission successful
